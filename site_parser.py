@@ -100,12 +100,7 @@ def get_info_from_link(link):
 
 
 
-#a = get_content('Гарниры')
-#print(type(a))
-#print(a[2])
 
-
-#print(len(a[1]['title']))
 
 
 
